@@ -1,1 +1,1 @@
-![Celestron_NexStar_8SE](https://github.com/user-attachments/assets/0cf5ef97-0ab7-44c1-87eb-35726b38af19)
+![Celestron_NexStar_8SE](https://github.com/user-attachments/assets/fbba93b0-0eb3-4d6d-94c7-491d56982a56)
