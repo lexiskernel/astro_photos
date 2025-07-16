@@ -6,4 +6,4 @@
 
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/venus1.PNG" alt="Alt Text" width="375" height="375">
 
-<img src="https://github.com/lexiskernel/planetary_photography/blob/main/saturn1.PNG" alt="Alt Text" width="375" height="375">
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/saturn1.PNG" alt="Alt Text" width="375" height="415">
