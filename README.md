@@ -1,6 +1,8 @@
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Orion.PNG" alt="Alt Text" width="450" height="795">
+
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Jupiter_Refrac1.jpg" alt="Alt Text" width="415" height="415"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Jupiter_Refrac2.jpg" alt="Alt Text" width="300" height="530"> 
 
-<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Orion.PNG" alt="Alt Text" width="300" height="530">
+
 
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/moon_ring_moon_planets.jpg" alt="Alt Text" width="415" height="415"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/saturn_venus.png" alt="Alt Text" width="475" height="475">  
 
