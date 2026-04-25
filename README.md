@@ -1,6 +1,6 @@
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Orion.PNG" alt="Alt Text" width="450" height="795">
 
-<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Saturn_Mak.jpg" alt="Alt Text" width="300" height="650"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Saturn_Refrac.PNG" alt="Alt Text" width="200" height="530">
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Saturn_Mak.jpg" alt="Alt Text" width="200" height="435"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Saturn_Refrac.PNG" alt="Alt Text" width="200" height="530">
 
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Uranus_SCT1.jpg" alt="Alt Text" width="300" height="477"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Uranus_SCT2.PNG" alt="Alt Text" width="300" height="477">
 
