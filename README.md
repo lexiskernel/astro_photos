@@ -6,4 +6,4 @@
 
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Uranus_SCT1.jpg" alt="Alt Text" width="300" height="477"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Uranus_SCT2.PNG" alt="Alt Text" width="300" height="477">
 
-<img src="https://github.com/lexiskernel/planetary_photography/blob/main/planets_pleiades.jpg" alt="Alt Text" width="475" height="475"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/planets_andromeda_orion_moon.jpg" alt="Alt Text" width="465" height="465">
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/planets_pleiades.jpg" alt="Alt Text" width="475" height="475"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/planets_andromeda_orion_moon.jpg" alt="Alt Text" width="405" height="405">
