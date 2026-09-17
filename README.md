@@ -1,4 +1,4 @@
-<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Jupiter80mmRefractor_large.png" alt="Alt Text" width="300" height="300"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Saturn_NexStar_8SE.png" alt="Alt Text" width="337.5" height="500"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Orion.PNG" alt="Alt Text" width="225" height="400">
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Jupiter80mmRefractor_large.png" alt="Alt Text" width="300" height="300"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Saturn_NexStar_8SE.png" alt="Alt Text" width="222" height="330"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Orion.PNG" alt="Alt Text" width="225" height="400">
 
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/moon_ring_moon_planets.jpg" alt="Alt Text" width="415" height="415"> 
 
