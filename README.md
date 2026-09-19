@@ -3,7 +3,7 @@
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Saturn_NexStar8se_asi120mc-s.png" alt="Alt Text" width="265" height="265"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Saturn_NexStar8se_asi662mc.png" alt="Alt Text" width="265" height="265">
 
 
-<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Saturn_ES80mm_refractor_cut.png" alt="Alt Text" width="265" height="265"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Saturn_ES80mm_refractor_cropped.png" alt="Alt Text" width="265" height="265">
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Saturn_ES80mm_refractor_cut.png" alt="Alt Text" width="265" height="265"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Saturn_80mm_Refrac.png" alt="Alt Text" width="265" height="265">
 
 
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Orion.PNG" alt="Alt Text" width="220" height="460">
