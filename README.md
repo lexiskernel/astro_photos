@@ -2,7 +2,7 @@
 
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Jupiter_80mmRefrac.jpg" alt="Alt Text" width="198" height="218"> 
 
-<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Upload1.jpg" alt="Alt Text" width="265" height="265"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Upload2.jpg" alt="Alt Text" width="265" height="265"> 
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/upload1.jpg" alt="Alt Text" width="265" height="265"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/upload2.jpg" alt="Alt Text" width="265" height="265"> 
 
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Saturn_ES80mmRefrac_ZWOASI120MC-S_cropped2.png" alt="Alt Text" width="265" height="265"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Saturn_ES80mmRefrac_ZWOASI662MC_cropped2.png" alt="Alt Text" width="265" height="265"> 
 
