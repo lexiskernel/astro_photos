@@ -1,7 +1,5 @@
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Saturn_NexStar8se_asi120mc-s.png" alt="Alt Text" width="500" height="500">  <img src="https://github.com/lexiskernel/planetary_photography/blob/main/saturn_test.png" alt="Alt Text" width="500" height="500"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/saturn_test120mc.png" alt="Alt Text" width="500" height="500"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/test.jpg" alt="Alt Text" width="500" height="500"> 
 
-<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Jupiter_80mmRefrac.jpg" alt="Alt Text" width="198" height="218"> 
-
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/fix1.png" alt="Alt Text" width="265" height="265"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/fix2.png" alt="Alt Text" width="265" height="265"> 
 
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Saturn_ES80mmRefrac_ZWOASI120MC-S_cropped2.png" alt="Alt Text" width="265" height="265"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Saturn_ES80mmRefrac_ZWOASI662MC_cropped2.png" alt="Alt Text" width="265" height="265"> 
