@@ -1,6 +1,6 @@
 
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/80mm Refractor 3x Barlow 662MC.jpg" alt="Alt Text" width="50%" height="50%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/test.jpg" alt="Alt Text" width="50%" height="50%">
-<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Jupiter 127mm Maksutov no Barlow 120MC-S.jpg" alt="Alt Text" width="50%" height="50%">  <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Jupiter 127mm Mak no Barlow 662MC.jpg" alt="Alt Text" width="50%" height="50%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Saturn 127mm Maksutov no Barlow 120MC-S.jpg" alt="Alt Text" width="50%" height="50%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main127mm Mak with no Barlow 662MC.jpg" alt="Alt Text" width="50%" height="50%"> 
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Jupiter 127mm Maksutov no Barlow 120MC-S.jpg" alt="Alt Text" width="50%" height="50%">  <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Jupiter 127mm Mak no Barlow 662MC.jpg" alt="Alt Text" width="50%" height="50%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Saturn 127mm Maksutov no Barlow 120MC-S.jpg" alt="Alt Text" width="50%" height="50%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/127mm Mak with no Barlow 662MC.jpg" alt="Alt Text" width="50%" height="50%"> 
 
 
 
