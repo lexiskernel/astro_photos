@@ -4,7 +4,9 @@
 
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/test.png" alt="Alt Text" width="30%" height="30%">  <img src="https://github.com/lexiskernel/planetary_photography/blob/main/test.jpg" alt="Alt Text" width="30%" height="30%">
 
-<img src="https://github.com/lexiskernel/planetary_photography/blob/main/1_scaled_Saturn_NexStar8se_asi120mc-s.jpg" alt="Alt Text" width="30%" height="30%">  <img src="https://github.com/lexiskernel/planetary_photography/blob/main/1_scaled_Saturn_NexStar8se_asi662mc.png" alt="Alt Text" width="30%" height="30%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/2_scaled_Saturn_NexStar8se_asi120mc-s.png" alt="Alt Text" width="30%" height="30%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/2_scaled_Saturn_NexStar8se_asi662mc.png" alt="Alt Text" width="30%" height="30%"> 
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/1_scaled_Saturn_NexStar8se_asi120mc-s.jpg" alt="Alt Text" width="30%" height="30%">  <img src="https://github.com/lexiskernel/planetary_photography/blob/main/1_scaled_Saturn_NexStar8se_asi662mc.png" alt="Alt Text" width="30%" height="30%"> 
+
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/2_scaled_Saturn_NexStar8se_asi120mc-s.png" alt="Alt Text" width="30%" height="30%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/2_scaled_Saturn_NexStar8se_asi662mc.png" alt="Alt Text" width="30%" height="30%"> 
 
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/1_Saturn 127mm Maksutov no Barlow 120MC-S.png" alt="Alt Text" width="30%" height="30%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/1_Saturn 127mm Maksutov no Barlow 662MC.png" alt="Alt Text" width="30%" height="30%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/2_Saturn 127mm Maksutov no Barlow 120MC-S.png" alt="Alt Text" width="30%" height="30%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/2_Saturn 127mm Maksutov no Barlow 662MC.png" alt="Alt Text" width="30%" height="30%">
 
