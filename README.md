@@ -1,23 +1,5 @@
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/test.png" alt="Alt Text" width="35%" height="35%">
 
-Telescope: Explore Scientific 127mm Maksutov-Cassegrain<br>
-Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)<br>
-Exposure: 60-sec video at 37ms exposure (left); 60-sec video at 37ms exposure (right)<br>
-Gain: 100 i.e. max (left); 315 gain (right)<br>
-No filter<br>
-No Barlow (F/15 native ratio)<br>
- 
-<img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 127mm Maksutov/no_filter/Saturn_ExploreScientific_127mmMaksutov_ZWOASI120MC-S_noBarlow.png" alt="Alt Text" width="47%" height="47%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 127mm Maksutov/no_filter/Saturn_ExploreScientific_127mmMaksutov_ZWOASI662MC_noBarlow.png" alt="Alt Text" width="47%" height="47%"> 
-
-Telescope: Explore Scientific 127mm Maksutov-Cassegrain<br>
-Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)<br>
-Exposure: 360-sec video at 15ms exposure; 360-sec video at 9ms exposure<br>
-Gain: 85 (left); 393 gain (right)<br>
-UV/IR-cut filter filter<br>
-No Barlow (F/15 native ratio)<br>
-
-<img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 127mm Maksutov/uv_ir_cut_filter/Saturn_ExploreScientific_127mmMaksutov_ZWOASI120MC-S_noBarlow.png" alt="Alt Text" width="47%" height="47%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 127mm Maksutov/uv_ir_cut_filter/Saturn_ExploreScientific_127mmMaksutov_ZWOASI662MC_noBarlow.png" alt="Alt Text" width="47%" height="47%"> 
-
 Telescope: Celestron NexStar 8SE (Orange Tube SCT)<br>
 Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)<br>
 Exposure: 60-sec video at 10ms exposure; 60-sec video at 10ms exposure<br>
@@ -77,6 +59,26 @@ No filter<br>
 No Barlow (F/10 native ratio)<br>
 
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/Uranus_SCT1.jpg" alt="Alt Text" width="47%" height="47%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/Uranus_SCT2.PNG" alt="Alt Text" width="47%" height="47%">
+
+
+Telescope: Explore Scientific 127mm Maksutov-Cassegrain<br>
+Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)<br>
+Exposure: 60-sec video at 37ms exposure (left); 60-sec video at 37ms exposure (right)<br>
+Gain: 100 i.e. max (left); 315 gain (right)<br>
+No filter<br>
+No Barlow (F/15 native ratio)<br>
+ 
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 127mm Maksutov/no_filter/Saturn_ExploreScientific_127mmMaksutov_ZWOASI120MC-S_noBarlow.png" alt="Alt Text" width="47%" height="47%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 127mm Maksutov/no_filter/Saturn_ExploreScientific_127mmMaksutov_ZWOASI662MC_noBarlow.png" alt="Alt Text" width="47%" height="47%"> 
+
+Telescope: Explore Scientific 127mm Maksutov-Cassegrain<br>
+Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)<br>
+Exposure: 360-sec video at 15ms exposure; 360-sec video at 9ms exposure<br>
+Gain: 85 (left); 393 gain (right)<br>
+UV/IR-cut filter filter<br>
+No Barlow (F/15 native ratio)<br>
+
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 127mm Maksutov/uv_ir_cut_filter/Saturn_ExploreScientific_127mmMaksutov_ZWOASI120MC-S_noBarlow.png" alt="Alt Text" width="47%" height="47%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 127mm Maksutov/uv_ir_cut_filter/Saturn_ExploreScientific_127mmMaksutov_ZWOASI662MC_noBarlow.png" alt="Alt Text" width="47%" height="47%"> 
+
 
 
 Telescope: Explore Scientific 80mm Refractor<br>
