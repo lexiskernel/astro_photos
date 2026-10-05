@@ -5,7 +5,7 @@ Gain: 100 i.e. max (left); 315 gain (right)<br>
 No filter<br>
 No Barlow (F/15 native ratio)<br>
  
-<img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 127mm Maksutov/no_filter/Saturn_ExploreScientific_127mmMaksutov_ZWOASI120MC-S_noBarlow.png" alt="Alt Text" width="50%" height="50%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 127mm Maksutov/no_filter/Saturn_ExploreScientific_127mmMaksutov_ZWOASI662MC_noBarlow.png" alt="Alt Text" width="50%" height="50%"> 
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 127mm Maksutov/no_filter/Saturn_ExploreScientific_127mmMaksutov_ZWOASI120MC-S_noBarlow.png" alt="Alt Text" width="47%" height="47%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 127mm Maksutov/no_filter/Saturn_ExploreScientific_127mmMaksutov_ZWOASI662MC_noBarlow.png" alt="Alt Text" width="47%" height="47%"> 
 
 Telescope: Explore Scientific 127mm Maksutov-Cassegrain<br>
 Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)<br>
