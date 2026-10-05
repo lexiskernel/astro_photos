@@ -1,8 +1,13 @@
-Below is Saturn photographed with my Explore Scientific 127mm Maksutov-Cassegrain, with the ZWO ASI120MC-S (left) and ZWO ASI662MC (right) cameras. Both images were processed from 3-minute videos at ~15ms exposures. I didn't use any filters. 
-
+Telescope: Explore Scientific 127mm Maksutov-Cassegrain
+Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)
+Exposure: 60-sec video at 37ms exposure; 60-sec video at 37ms exposure 
+Gain: 100 i.e. max (left); 315 gain (right)
+No filter
+No Barlow (F/15 native ratio)
+ 
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 127mm Maksutov/no_filter/Saturn_ExploreScientific_127mmMaksutov_ZWOASI120MC-S_noBarlow.png" alt="Alt Text" width="30%" height="30%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 127mm Maksutov/no_filter/Saturn_ExploreScientific_127mmMaksutov_ZWOASI662MC_noBarlow.png" alt="Alt Text" width="30%" height="30%"> 
 
-This time, I show Saturn photographed with my Explore Scientific 127mm Maksutov-Cassegrain, with the ZWO ASI120MC-S (left) and ZWO ASI662MC (right) cameras, with the same exposure and video length as above, but with a UV/IR-cut filter used. 
+
 
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 127mm Maksutov/uv_ir_cut_filter/Saturn_ExploreScientific_127mmMaksutov_ZWOASI120MC-S_noBarlow.png" alt="Alt Text" width="30%" height="30%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 127mm Maksutov/uv_ir_cut_filter/Saturn_ExploreScientific_127mmMaksutov_ZWOASI662MC_noBarlow.png" alt="Alt Text" width="30%" height="30%"> 
 
