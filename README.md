@@ -77,13 +77,27 @@ No Barlow (F/10 native ratio)<br>
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/Uranus_SCT1.jpg" alt="Alt Text" width="300" height="477"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/Uranus_SCT2.PNG" alt="Alt Text" width="300" height="477">
 
 
-<img src="https://github.com/lexiskernel/planetary_photography/blob/main/1_Saturn 127mm Maksutov no Barlow 120MC-S.png" alt="Alt Text" width="30%" height="30%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/1_Saturn 127mm Maksutov no Barlow 662MC.png" alt="Alt Text" width="30%" height="30%"> 
+Telescope: Explore Scientific 80mm Refractor<br>
+Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)<br>
+Exposure: 120-sec video at 39ms exposure; 120-sec video at 39ms exposure<br>
+Gain: 93 (left); 371 gain (right)<br>
+No filter<br>
+2x Barlow (F/16 focal ratio)<br>
 
-<img src="https://github.com/lexiskernel/planetary_photography/blob/main/2_Saturn 127mm Maksutov no Barlow 120MC-S.png" alt="Alt Text" width="30%" height="30%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/2_Saturn 127mm Maksutov no Barlow 662MC.png" alt="Alt Text" width="30%" height="30%">
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 80mmRefractor/nofilter/Saturn_ExploreScientific_80mmRefractor_ZWOASI120MC-S_2xBarlow.png" alt="Alt Text" width="265" height="265"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 80mmRefractor/nofilter/Saturn_ExploreScientific_80mmRefractor_ZWOASI662MC_2xBarlow.png" alt="Alt Text" width="265" height="265"> 
 
-<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Jupiter_ES80mmRefrac_ZWOASI120MC-S.png" alt="Alt Text" width="265" height="265"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Jupiter_ES80mmRefrac_ZWOASI662MC.png" alt="Alt Text" width="265" height="265"> 
 
-<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Saturn_ES80mmRefrac_ZWOASI120MC-S.png" alt="Alt Text" width="265" height="265"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Saturn_ES80mmRefrac_ZWOASI662MC.png" alt="Alt Text" width="265" height="265"> 
+
+Telescope: Explore Scientific 80mm Refractor<br>
+Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)<br>
+Exposure: 120-sec video at 39ms exposure; 120-sec video at 39ms exposure<br>
+Gain: 93 (left); 371 gain (right)<br>
+No filter<br>
+3x Barlow (F/24 focal ratio)<br>
+
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 80mmRefractor/nofilter/Saturn_ExploreScientific_80mmRefractor_ZWOASI120MC-S_3xBarlow.png" alt="Alt Text" width="265" height="265"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 80mmRefractor/nofilter/Saturn_ExploreScientific_80mmRefractor_ZWOASI662MC_3xBarlow.png" alt="Alt Text" width="265" height="265"> 
+
+
 
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Orion.PNG" alt="Alt Text" width="220" height="460">
 
