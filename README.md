@@ -50,7 +50,7 @@ Gain: 96 (left); 399 gain (right)<br>
 UV/IR-cut filter<br>
 2x Barlow (F/20 focal ratio)<br>
 
-<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/uv_ir_cut_filter/Saturn_CelestronNexStar8SE_ZWOASI120MC-S_2xBarlow.png" alt="Alt Text" width="30%" height="30%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/uv_ir_cut_filter/Saturn_CelestronNexStar8SE_ZWOASI662MC_2xBarlow.jpg" alt="Alt Text" width="30%" height="30%">
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/uv_ir_cut_filter/Saturn_CelestronNexStar8SE_ZWOASI120MC-S_2xBarlow.png" alt="Alt Text" width="30%" height="30%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/uv_ir_cut_filter/Saturn_CelestronNexStar8SE_ZWOASI662MC_2xBarlow.png" alt="Alt Text" width="30%" height="30%">
 
 
 
