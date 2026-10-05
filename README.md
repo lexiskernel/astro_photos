@@ -64,6 +64,7 @@ No Barlow (F/10 native ratio)<br>
 Edited on Registax: Gamma function - increased brightness
 
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/1_Registax_Gamma_Saturn_NexStar8se_asi120mc-s.jpg" alt="Alt Text" width="30%" height="30%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/1_Registax_Gamma_Saturn_NexStar8se_asi662mc.png" alt="Alt Text" width="30%" height="30%">
+
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/2_Registax_Gamma_Saturn_NexStar8se_asi120mc-s.png" alt="Alt Text" width="30%" height="30%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/2_Registax_Gamma_Saturn_NexStar8se_asi662mc.png" alt="Alt Text" width="30%" height="30%"> 
 
  <img src="https://github.com/lexiskernel/planetary_photography/blob/main/1_scaled_Saturn_NexStar8se_asi662mc.png" alt="Alt Text" width="30%" height="30%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/2_scaled_Saturn_NexStar8se_asi662mc.png" alt="Alt Text" width="30%" height="30%"> 
