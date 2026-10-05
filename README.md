@@ -63,9 +63,9 @@ No filter<br>
 No Barlow (F/10 native ratio)<br>
 Edited on Registax: Gamma function - increased brightness
 
-<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/1_Registax_Gamma_Saturn_NexStar8se_asi120mc-s.jpg" alt="Alt Text" width="30%" height="30%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/1_Registax_Gamma_Saturn_NexStar8se_asi662mc.png" alt="Alt Text" width="30%" height="30%">
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/1_Registax_Gamma_Saturn_NexStar8se_asi120mc-s.jpg" alt="Alt Text" width="40%" height="40%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/1_Registax_Gamma_Saturn_NexStar8se_asi662mc.png" alt="Alt Text" width="40%" height="40%">
 
-<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/2_Registax_Gamma_Saturn_NexStar8se_asi120mc-s.png" alt="Alt Text" width="30%" height="30%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/2_Registax_Gamma_Saturn_NexStar8se_asi662mc.png" alt="Alt Text" width="30%" height="30%"> 
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/2_Registax_Gamma_Saturn_NexStar8se_asi120mc-s.png" alt="Alt Text" width="40%" height="40%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/2_Registax_Gamma_Saturn_NexStar8se_asi662mc.png" alt="Alt Text" width="40%" height="40%"> 
 
 
 Telescope: Celestron NexStar 8SE (Orange Tube SCT)<br>
@@ -74,7 +74,7 @@ Exposure: 60-sec video; 60-sec video<br>
 No filter<br>
 No Barlow (F/10 native ratio)<br>
 
-<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/Uranus_SCT1.jpg" alt="Alt Text" width="300" height="477"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/Uranus_SCT2.PNG" alt="Alt Text" width="300" height="477">
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/Uranus_SCT1.jpg" alt="Alt Text" width="40%" height="40%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/Uranus_SCT2.PNG" alt="Alt Text" width="40%" height="40%">
 
 
 Telescope: Explore Scientific 80mm Refractor<br>
@@ -84,7 +84,7 @@ Gain: 93 (left); 371 gain (right)<br>
 No filter<br>
 2x Barlow (F/16 focal ratio)<br>
 
-<img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 80mmRefractor/nofilter/Saturn_ExploreScientific_80mmRefractor_ZWOASI120MC-S_2xBarlow.png" alt="Alt Text" width="265" height="265"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 80mmRefractor/nofilter/Saturn_ExploreScientific_80mmRefractor_ZWOASI662MC_2xBarlow.png" alt="Alt Text" width="265" height="265"> 
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 80mmRefractor/nofilter/Saturn_ExploreScientific_80mmRefractor_ZWOASI120MC-S_2xBarlow.png" alt="Alt Text" width="40%" height="40%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 80mmRefractor/nofilter/Saturn_ExploreScientific_80mmRefractor_ZWOASI662MC_2xBarlow.png" alt="Alt Text" width="40%" height="40%"> 
 
 
 
