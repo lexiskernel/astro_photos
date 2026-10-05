@@ -18,10 +18,10 @@ No Barlow (F/15 native ratio)
 
 
 
-<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/Saturn_Celestron_NexStar8SE_ZWOASI120MC-S_noBarlow.png" alt="Alt Text" width="30%" height="30%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/Saturn_Celestron_NexStar8SE_ZWOASI662MC_noBarlow.png" alt="Alt Text" width="30%" height="30%">
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/Saturn_Celestron_NexStar8SE_ZWOASI120MC-S_noBarlow.png" alt="Alt Text" width="30%" height="30%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/Saturn_Celestron_NexStar8SE_ZWOASI662MC_noBarlow.jpg" alt="Alt Text" width="30%" height="30%">
 
 
-
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/uv_ir_cut_filter/Saturn_Celestron_NexStar8SE_ZWOASI120MC-S_noBarlow.png" alt="Alt Text" width="30%" height="30%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/uv_ir_cut_filter/Saturn_Celestron_NexStar8SE_ZWOASI662MC_noBarlow.jpg" alt="Alt Text" width="30%" height="30%">
 
 
 
