@@ -1,5 +1,3 @@
-<img src="https://github.com/lexiskernel/planetary_photography/blob/main/test.png" alt="Alt Text" width="35%" height="35%">
-
 Telescope: Celestron NexStar 8SE (Orange Tube SCT)<br>
 Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)<br>
 Exposure: 60-sec video at 10ms exposure; 60-sec video at 10ms exposure<br>
