@@ -1,4 +1,4 @@
-<img src="https://github.com/lexiskernel/planetary_photography/blob/main/test.png" alt="Alt Text" width="47%" height="47%">
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/test.png" alt="Alt Text" width="35%" height="35%">
 
 Telescope: Explore Scientific 127mm Maksutov-Cassegrain<br>
 Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)<br>
