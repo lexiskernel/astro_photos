@@ -9,7 +9,7 @@ No Barlow (F/15 native ratio)
 
 Telescope: Explore Scientific 127mm Maksutov-Cassegrain
 Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)
-Exposure: 60-sec video at 37ms exposure; 60-sec video at 37ms exposure 
+Exposure: 360-sec video at 15ms exposure; 360-sec video at 9ms exposure 
 Gain: 100 i.e. max (left); 315 gain (right)
 UV/IR-cut filter filter
 No Barlow (F/15 native ratio)
