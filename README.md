@@ -18,7 +18,7 @@ No Barlow (F/15 native ratio)<br>
 
 Telescope: Celestron NexStar 8SE (Orange Tube SCT)<br>
 Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)<br>
-Exposure: 60-sec video at 10ms exposure; 60-sec video at 10ms exposure 
+Exposure: 60-sec video at 10ms exposure; 60-sec video at 10ms exposure<br>
 Gain: 100 i.e. max (left); 350 gain (right)<br>
 No filter<br>
 No Barlow (F/15 native ratio)<br>
