@@ -95,7 +95,7 @@ Gain: 100 i.e. max (left); 416 gain (right)<br>
 No filter<br>
 3x Barlow (F/24 focal ratio)<br>
 
-<img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 80mmRefractor/nofilter/Saturn_ExploreScientific_80mmRefractor_ZWOASI120MC-S_3xBarlow.png" alt="Alt Text" width="265" height="265"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 80mmRefractor/nofilter/Saturn_ExploreScientific_80mmRefractor_ZWOASI662MC_3xBarlow.png" alt="Alt Text" width="265" height="265"> 
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 80mmRefractor/nofilter/Saturn_ExploreScientific_80mmRefractor_ZWOASI120MC-S_3xBarlow.png" alt="Alt Text" width="40%" height="40%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 80mmRefractor/nofilter/Saturn_ExploreScientific_80mmRefractor_ZWOASI662MC_3xBarlow.png" alt="Alt Text" width="40%" height="40%"> 
 
 
 
