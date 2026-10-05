@@ -14,7 +14,7 @@ Gain: 85 (left); 393 gain (right)<br>
 UV/IR-cut filter filter<br>
 No Barlow (F/15 native ratio)<br>
 
-<img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 127mm Maksutov/uv_ir_cut_filter/Saturn_ExploreScientific_127mmMaksutov_ZWOASI120MC-S_noBarlow.png" alt="Alt Text" width="30%" height="30%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 127mm Maksutov/uv_ir_cut_filter/Saturn_ExploreScientific_127mmMaksutov_ZWOASI662MC_noBarlow.png" alt="Alt Text" width="30%" height="30%"> 
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 127mm Maksutov/uv_ir_cut_filter/Saturn_ExploreScientific_127mmMaksutov_ZWOASI120MC-S_noBarlow.png" alt="Alt Text" width="40%" height="40%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 127mm Maksutov/uv_ir_cut_filter/Saturn_ExploreScientific_127mmMaksutov_ZWOASI662MC_noBarlow.png" alt="Alt Text" width="40%" height="40%"> 
 
 Telescope: Celestron NexStar 8SE (Orange Tube SCT)<br>
 Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)<br>
@@ -23,7 +23,7 @@ Gain: 100 i.e. max (left); 350 gain (right)<br>
 No filter<br>
 No Barlow (F/10 native ratio)<br>
 
-<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/Saturn_CelestronNexStar8SE_ZWOASI120MC-S_noBarlow.png" alt="Alt Text" width="30%" height="30%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/Saturn_CelestronNexStar8SE_ZWOASI662MC_noBarlow.jpg" alt="Alt Text" width="30%" height="30%">
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/Saturn_CelestronNexStar8SE_ZWOASI120MC-S_noBarlow.png" alt="Alt Text" width="40%" height="40%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/Saturn_CelestronNexStar8SE_ZWOASI662MC_noBarlow.jpg" alt="Alt Text" width="40%" height="40%">
 
 Telescope: Celestron NexStar 8SE (Orange Tube SCT)<br>
 Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)<br>
@@ -32,7 +32,7 @@ Gain: 96 (left); 343 gain (right)<br>
 UV/IR-cut filter<br>
 No Barlow (F/10 native ratio)
 
-<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/uv_ir_cut_filter/Saturn_CelestronNexStar8SE_ZWOASI120MC-S_noBarlow.png" alt="Alt Text" width="30%" height="30%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/uv_ir_cut_filter/Saturn_CelestronNexStar8SE_ZWOASI662MC_noBarlow.png" alt="Alt Text" width="30%" height="30%">
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/uv_ir_cut_filter/Saturn_CelestronNexStar8SE_ZWOASI120MC-S_noBarlow.png" alt="Alt Text" width="40%" height="40%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/uv_ir_cut_filter/Saturn_CelestronNexStar8SE_ZWOASI662MC_noBarlow.png" alt="Alt Text" width="40%" height="40%">
 
 Telescope: Celestron NexStar 8SE (Orange Tube SCT)<br>
 Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)<br>
@@ -41,7 +41,7 @@ Gain: 100 i.e. max (left); 500 gain (right)<br>
 No filter<br>
 2x Barlow (F/20 focal ratio)<br>
 
-<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/Saturn_CelestronNexStar8SE_ZWOASI120MC-S_2xBarlow.png" alt="Alt Text" width="30%" height="30%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/Saturn_CelestronNexStar8SE_ZWOASI662MC_2xBarlow.jpg" alt="Alt Text" width="30%" height="30%">
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/Saturn_CelestronNexStar8SE_ZWOASI120MC-S_2xBarlow.png" alt="Alt Text" width="40%" height="40%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/Saturn_CelestronNexStar8SE_ZWOASI662MC_2xBarlow.jpg" alt="Alt Text" width="40%" height="40%">
 
 Telescope: Celestron NexStar 8SE (Orange Tube SCT)<br>
 Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)<br>
@@ -50,7 +50,7 @@ Gain: 96 (left); 399 gain (right)<br>
 UV/IR-cut filter<br>
 2x Barlow (F/20 focal ratio)<br>
 
-<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/uv_ir_cut_filter/Saturn_CelestronNexStar8SE_ZWOASI120MC-S_2xBarlow.png" alt="Alt Text" width="30%" height="30%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/uv_ir_cut_filter/Saturn_CelestronNexStar8SE_ZWOASI662MC_2xBarlow.png" alt="Alt Text" width="30%" height="30%">
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/uv_ir_cut_filter/Saturn_CelestronNexStar8SE_ZWOASI120MC-S_2xBarlow.png" alt="Alt Text" width="40%" height="40%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/uv_ir_cut_filter/Saturn_CelestronNexStar8SE_ZWOASI662MC_2xBarlow.png" alt="Alt Text" width="40%" height="40%">
 
 
 
