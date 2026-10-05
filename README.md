@@ -55,7 +55,15 @@ UV/IR-cut filter<br>
 
 
 
+Telescope: Celestron NexStar 8SE (Orange Tube SCT)<br>
+Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)<br>
+Exposure: 60-sec video at 10ms exposure; 60-sec video at 10ms exposure<br>
+Gain: 92 (left); 350 gain (right)<br>
+No filter<br>
+No Barlow (F/10 native ratio)<br>
+Edited on Registax: Gamma function - increased brightness
 
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/Saturn_CelestronNexStar8SE_ZWOASI120MC-S_noBarlow.png" alt="Alt Text" width="30%" height="30%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/Saturn_CelestronNexStar8SE_ZWOASI662MC_noBarlow.jpg" alt="Alt Text" width="30%" height="30%">
 
 
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/1_scaled_Saturn_NexStar8se_asi120mc-s.jpg" alt="Alt Text" width="30%" height="30%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/2_scaled_Saturn_NexStar8se_asi120mc-s.png" alt="Alt Text" width="30%" height="30%"> 
