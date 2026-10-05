@@ -67,7 +67,15 @@ Edited on Registax: Gamma function - increased brightness
 
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/2_Registax_Gamma_Saturn_NexStar8se_asi120mc-s.png" alt="Alt Text" width="30%" height="30%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/2_Registax_Gamma_Saturn_NexStar8se_asi662mc.png" alt="Alt Text" width="30%" height="30%"> 
 
- <img src="https://github.com/lexiskernel/planetary_photography/blob/main/1_scaled_Saturn_NexStar8se_asi662mc.png" alt="Alt Text" width="30%" height="30%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/2_scaled_Saturn_NexStar8se_asi662mc.png" alt="Alt Text" width="30%" height="30%"> 
+
+Telescope: Celestron NexStar 8SE (Orange Tube SCT)<br>
+Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)<br>
+Exposure: 60-sec video; 60-sec video<br>
+No filter<br>
+No Barlow (F/10 native ratio)<br>
+
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/Uranus_SCT1.jpg" alt="Alt Text" width="300" height="477"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/Uranus_SCT2.PNG" alt="Alt Text" width="300" height="477">
+
 
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/1_Saturn 127mm Maksutov no Barlow 120MC-S.png" alt="Alt Text" width="30%" height="30%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/1_Saturn 127mm Maksutov no Barlow 662MC.png" alt="Alt Text" width="30%" height="30%"> 
 
@@ -81,6 +89,6 @@ Edited on Registax: Gamma function - increased brightness
 
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/moon_ring_moon_planets.jpg" alt="Alt Text" width="415" height="415"> 
 
-<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Uranus_SCT1.jpg" alt="Alt Text" width="300" height="477"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Uranus_SCT2.PNG" alt="Alt Text" width="300" height="477">
+
 
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/planets_pleiades.jpg" alt="Alt Text" width="475" height="475"><img src="https://github.com/lexiskernel/planetary_photography/blob/main/planets_andromeda_orion_moon.jpg" alt="Alt Text" width="405" height="405">
