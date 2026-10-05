@@ -90,8 +90,8 @@ No filter<br>
 
 Telescope: Explore Scientific 80mm Refractor<br>
 Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)<br>
-Exposure: 120-sec video at 39ms exposure; 120-sec video at 39ms exposure<br>
-Gain: 93 (left); 371 gain (right)<br>
+Exposure: 120-sec video at 50ms exposure; 120-sec video at 39ms exposure<br>
+Gain: 100 i.e. max (left); 416 gain (right)<br>
 No filter<br>
 3x Barlow (F/24 focal ratio)<br>
 
