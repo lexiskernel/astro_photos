@@ -1,3 +1,5 @@
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 127mm Maksutov/no_filter/Saturn_ExploreScientific_127mmMaksutov_ZWOASI120MC-S_noBarlow.png" alt="Alt Text" width="30%" height="30%"> 
+
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/1_Saturn_NexStar8se_asi120mc-s_no_Barlow.png" alt="Alt Text" width="30%" height="30%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/1_Saturn_NexStar8se_asi120mc-s_2x_Barlow.png" alt="Alt Text" width="30%" height="30%">
 
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/1_Saturn_NexStar8se_asi662MC_no_Barlow.jpg" alt="Alt Text" width="30%" height="30%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/1_Saturn_NexStar8se_asi662MC_2x_Barlow.jpg" alt="Alt Text" width="30%" height="30%">
