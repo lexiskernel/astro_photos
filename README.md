@@ -7,7 +7,7 @@ Gain: 100 i.e. max (left); 350 gain (right)<br>
 No filter<br>
 No Barlow (F/10 native ratio)<br>
 
-<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/Saturn_CelestronNexStar8SE_ZWOASI120MC-S_noBarlow.png" alt="Alt Text" width="39%" height="39%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/Saturn_CelestronNexStar8SE_ZWOASI662MC_noBarlow.jpg" alt="Alt Text" width="39%" height="39%">
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/Saturn_CelestronNexStar8SE_ZWOASI120MC-S_noBarlow.png" alt="Alt Text" width="47%" height="47%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/Saturn_CelestronNexStar8SE_ZWOASI662MC_noBarlow.jpg" alt="Alt Text" width="47%" height="47%">
 
 Telescope: Celestron NexStar 8SE (Orange Tube SCT)<br>
 Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)<br>
