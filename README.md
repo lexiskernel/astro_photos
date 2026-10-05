@@ -16,10 +16,21 @@ No Barlow (F/15 native ratio)
 
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 127mm Maksutov/uv_ir_cut_filter/Saturn_ExploreScientific_127mmMaksutov_ZWOASI120MC-S_noBarlow.png" alt="Alt Text" width="30%" height="30%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 127mm Maksutov/uv_ir_cut_filter/Saturn_ExploreScientific_127mmMaksutov_ZWOASI662MC_noBarlow.png" alt="Alt Text" width="30%" height="30%"> 
 
-
+Telescope: Celestron NexStar 8SE (Orange Tube SCT)
+Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)
+Exposure: 60-sec video at 10ms exposure; 60-sec video at 10ms exposure 
+Gain: 100 i.e. max (left); 350 gain (right)
+No filter
+No Barlow (F/15 native ratio)
 
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/Saturn_Celestron_NexStar8SE_ZWOASI120MC-S_noBarlow.png" alt="Alt Text" width="30%" height="30%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/Saturn_Celestron_NexStar8SE_ZWOASI662MC_noBarlow.jpg" alt="Alt Text" width="30%" height="30%">
 
+Telescope: Celestron NexStar 8SE (Orange Tube SCT)
+Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)
+Exposure: 360-sec video at 7ms exposure; 360-sec video at 8ms exposure 
+Gain: 96 (left); 343 gain (right)
+UV/IR-cut filter
+No Barlow (F/15 native ratio)
 
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/uv_ir_cut_filter/Saturn_Celestron_NexStar8SE_ZWOASI120MC-S_noBarlow.png" alt="Alt Text" width="30%" height="30%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/uv_ir_cut_filter/Saturn_Celestron_NexStar8SE_ZWOASI662MC_noBarlow.jpg" alt="Alt Text" width="30%" height="30%">
 
