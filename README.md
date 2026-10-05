@@ -1,3 +1,5 @@
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/test.png" alt="Alt Text" width="47%" height="47%">
+
 Telescope: Explore Scientific 127mm Maksutov-Cassegrain<br>
 Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)<br>
 Exposure: 60-sec video at 37ms exposure (left); 60-sec video at 37ms exposure (right)<br>
