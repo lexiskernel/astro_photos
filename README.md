@@ -16,6 +16,24 @@ No Barlow (F/15 native ratio)
 
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 127mm Maksutov/uv_ir_cut_filter/Saturn_ExploreScientific_127mmMaksutov_ZWOASI120MC-S_noBarlow.png" alt="Alt Text" width="30%" height="30%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 127mm Maksutov/uv_ir_cut_filter/Saturn_ExploreScientific_127mmMaksutov_ZWOASI662MC_noBarlow.png" alt="Alt Text" width="30%" height="30%"> 
 
+
+
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/Saturn_Celestron_NexStar8SE_ZWOASI120MC-S_noBarlow.png" alt="Alt Text" width="30%" height="30%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/mainCelestron NexStar8SE/no_filter/Saturn_Celestron_NexStar8SE_ZWOASI662_noBarlow.png" alt="Alt Text" width="30%" height="30%"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/1_Saturn_NexStar8se_asi120mc-s_no_Barlow.png" alt="Alt Text" width="30%" height="30%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/1_Saturn_NexStar8se_asi120mc-s_2x_Barlow.png" alt="Alt Text" width="30%" height="30%">
 
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/1_Saturn_NexStar8se_asi662MC_no_Barlow.jpg" alt="Alt Text" width="30%" height="30%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/1_Saturn_NexStar8se_asi662MC_2x_Barlow.jpg" alt="Alt Text" width="30%" height="30%">
