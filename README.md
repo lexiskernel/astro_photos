@@ -101,12 +101,12 @@ No filter<br>
 
 
 
-<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Orion.PNG" alt="Alt Text" width="80%" height="80%">
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Orion.PNG" alt="Alt Text" width="60%" height="60%">
 
-<img src="https://github.com/lexiskernel/planetary_photography/blob/main/moon_ring_moon_planets.jpg" alt="Alt Text" width="47%" height="47%"> 
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/moon_ring_moon_planets.jpg" alt="Alt Text" width="60%" height="60%"> 
 
 
 
-<img src="https://github.com/lexiskernel/planetary_photography/blob/main/planets_pleiades.jpg" alt="Alt Text" width="47%" height="47%"> 
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/planets_pleiades.jpg" alt="Alt Text" width="60%" height="60%"> 
 
-<img src="https://github.com/lexiskernel/planetary_photography/blob/main/planets_andromeda_orion_moon.jpg" alt="Alt Text" width="47%" height="47%">
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/planets_andromeda_orion_moon.jpg" alt="Alt Text" width="60%" height="60%">
