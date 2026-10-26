@@ -57,7 +57,7 @@ No filter<br>
 2x Barlow (F/20 focal ratio)<br>
 Edited on Registax: Gamma function - increased brightness
 
-<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/1_Registax_Gamma_Saturn_NexStar8se_asi120mc-s_2xBarlow.jpg" alt="Alt Text" width="47%" height="47%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/1_Registax_Gamma_Saturn_NexStar8se_asi662mc_2xBarlow.png" alt="Alt Text" width="47%" height="47%">
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/1_Registax_Gamma_Saturn_NexStar8se_asi120mc-s_2xBarlow.png" alt="Alt Text" width="47%" height="47%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/Celestron NexStar8SE/no_filter/1_Registax_Gamma_Saturn_NexStar8se_asi662mc_2xBarlow.png" alt="Alt Text" width="47%" height="47%">
 
 
 Telescope: Celestron NexStar 8SE (Orange Tube SCT)<br>
