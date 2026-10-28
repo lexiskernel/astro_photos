@@ -52,7 +52,7 @@ Edited on Google Photos/Windows Photos: brightenes/exposure/black point
 
 Telescope: Celestron NexStar 8SE (Orange Tube SCT)<br>
 Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)<br>
-Exposure: 60-sec video at 39ms exposure; 60-sec video at 10ms exposure<br>
+Exposure: 180-sec video at 39ms exposure; 60-sec video at 10ms exposure<br>
 Gain: 100 i.e. max (left); 500 i.e. max gain (right)<br>
 No filter<br>
 2x Barlow (F/20 focal ratio)<br>
