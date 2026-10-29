@@ -30,8 +30,8 @@ No filter<br>
 
 Telescope: Celestron NexStar 8SE (Orange Tube SCT)<br>
 Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)<br>
-Exposure: 360-sec video at 23ms exposure; 60-sec video at 31ms exposure<br>
-Gain: 96 (left); 399 gain (right)<br>
+Exposure: 360-sec video at 23ms exposure; 360-sec video at 20ms exposure<br>
+Gain: 96 (left); 465 gain (right)<br>
 Red/Blue White Balance: 52/95 (left); 55/75 (right)<br>
 UV/IR-cut filter<br>
 2x Barlow (F/20 focal ratio)<br>
