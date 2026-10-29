@@ -45,6 +45,7 @@ Telescope: Celestron NexStar 8SE (Orange Tube SCT)<br>
 Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)<br>
 Exposure: 60-sec video at 10ms exposure; 60-sec video at 10ms exposure<br>
 Gain: 100 i.e. max (left); 350 gain (right)<br>
+Red/Blue White Balance: 60/95 (left); 55/75 (right)
 No filter<br>
 No Barlow (F/10 native ratio)<br>
 Edited on Registax: Gamma function - increased brightness
@@ -58,6 +59,7 @@ Telescope: Celestron NexStar 8SE (Orange Tube SCT)<br>
 Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)<br>
 Exposure: 180-sec video at 39ms exposure; 60-sec video at 10ms exposure<br>
 Gain: 100 i.e. max (left); 500 i.e. max gain (right)<br>
+Red/Blue White Balance: 60/95 (left); 55/75 (right)<br>
 No filter<br>
 2x Barlow (F/20 focal ratio)<br>
 Edited on Registax: Gamma function - increased brightness
