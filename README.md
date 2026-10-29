@@ -93,6 +93,7 @@ Telescope: Explore Scientific 127mm Maksutov-Cassegrain<br>
 Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)<br>
 Exposure: 360-sec video at 15ms exposure; 360-sec video at 9ms exposure<br>
 Gain: 85 (left); 393 gain (right)<br>
+Red/Blue White Balance: 52/95 (left); 55/75 (right)<br>
 UV/IR-cut filter filter<br>
 No Barlow (F/15 native ratio)<br>
 
@@ -104,7 +105,6 @@ Telescope: Explore Scientific 80mm Refractor<br>
 Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)<br>
 Exposure: 120-sec video at 39ms exposure; 120-sec video at 39ms exposure<br>
 Gain: 93 (left); 371 gain (right)<br>
-Red/Blue White Balance: 52/95 (left); 55/75 (right)<br>
 No filter<br>
 2x Barlow (F/16 focal ratio)<br>
 
