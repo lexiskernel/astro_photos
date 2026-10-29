@@ -45,7 +45,7 @@ Telescope: Celestron NexStar 8SE (Orange Tube SCT)<br>
 Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)<br>
 Exposure: 60-sec video at 10ms exposure; 60-sec video at 10ms exposure<br>
 Gain: 100 i.e. max (left); 350 gain (right)<br>
-Red/Blue White Balance: 60/95 (left); 55/75 (right)
+Red/Blue White Balance: 60/95 (left); 55/75 (right)<br>
 No filter<br>
 No Barlow (F/10 native ratio)<br>
 Edited on Registax: Gamma function - increased brightness
@@ -94,7 +94,7 @@ Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)<br>
 Exposure: 360-sec video at 15ms exposure; 360-sec video at 9ms exposure<br>
 Gain: 85 (left); 393 gain (right)<br>
 Red/Blue White Balance: 52/95 (left); 55/75 (right)<br>
-UV/IR-cut filter filter<br>
+UV/IR-cut filter<br>
 No Barlow (F/15 native ratio)<br>
 
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 127mm Maksutov/uv_ir_cut_filter/Saturn_ExploreScientific_127mmMaksutov_ZWOASI120MC-S_noBarlow.png" alt="Alt Text" width="47%" height="47%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 127mm Maksutov/uv_ir_cut_filter/Saturn_ExploreScientific_127mmMaksutov_ZWOASI662MC_noBarlow.png" alt="Alt Text" width="47%" height="47%"> 
@@ -105,7 +105,7 @@ Telescope: Explore Scientific 80mm Refractor<br>
 Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)<br>
 Exposure: 120-sec video at 39ms exposure; 120-sec video at 39ms exposure<br>
 Gain: 93 (left); 371 gain (right)<br>
-Red/Blue White Balance: 52/95 (left); 55/75 (right)
+Red/Blue White Balance: 52/95 (left); 55/75 (right)<br>
 No filter<br>
 2x Barlow (F/16 focal ratio)<br>
 
@@ -117,7 +117,7 @@ Telescope: Explore Scientific 80mm Refractor<br>
 Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)<br>
 Exposure: 120-sec video at 39ms exposure; 120-sec video at 39ms exposure<br>
 Gain: 93 (left); 371 gain (right)<br>
-Red/Blue White Balance: 52/95 (left); 55/75 (right)
+Red/Blue White Balance: 52/95 (left); 55/75 (right)<br>
 UV/IR-cut filter filter<br>
 2x Barlow (F/16 focal ratio)<br>
 
@@ -128,7 +128,7 @@ Telescope: Explore Scientific 80mm Refractor<br>
 Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)<br>
 Exposure: 120-sec video at 50ms exposure; 120-sec video at 39ms exposure<br>
 Gain: 100 i.e. max (left); 416 gain (right)<br>
-Red/Blue White Balance: 52/95 (left); 55/75 (right)
+Red/Blue White Balance: 52/95 (left); 55/75 (right)<br>
 No filter<br>
 3x Barlow (F/24 focal ratio)<br>
 
@@ -139,8 +139,8 @@ Telescope: Explore Scientific 80mm Refractor<br>
 Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)<br>
 Exposure: 240-sec video at 50ms exposure; 240-sec video at 50ms exposure<br>
 Gain: 100 (i.e. max); 410 gain (right)<br>
-Red/Blue White Balance: 52/95 (left); 55/75 (right)
-UV/IR-cut filter filter<br>
+Red/Blue White Balance: 52/95 (left); 55/75 (right)<br>
+UV/IR-cut filter<br>
 3x Barlow (F/24 focal ratio)<br>
 
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 80mmRefractor/uv_ir_cut_filter/Saturn_ExploreScientific_80mmRefractor_ZWOASI120MC-S_3xBarlow.png" alt="Alt Text" width="47%" height="47%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 80mmRefractor/uv_ir_cut_filter/Saturn_ExploreScientific_80mmRefractor_ZWOASI662MC_3xBarlow.png" alt="Alt Text" width="47%" height="47%"> 
