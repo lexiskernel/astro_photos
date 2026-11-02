@@ -116,6 +116,7 @@ Telescope: Explore Scientific 127mm Maksutov-Cassegrain<br>
 Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)<br>
 Exposure: 60-sec video at 37ms exposure (left); 60-sec video at 37ms exposure (right)<br>
 Gain: 100 i.e. max (left); 315 gain (right)<br>
+Red/Blue White Balance: 52/95 (left); 55/75 (right)<br>
 No filter<br>
 No Barlow (F/15 native ratio)<br>
  
