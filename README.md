@@ -145,7 +145,7 @@ Red/Blue White Balance: 52/95 (left); 52/95 (right)<br>
 No filter <br>
 2x Barlow (F/8.8 focal ratio)<br>
 
-<img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 114mm Reflector/no_filter/Saturn_ExploreScientific_114mmReflector_ZWOASI120MC-S_2xBarlow.png" alt="Alt Text" width="47%" height="47%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 114mm Reflector/uv_ir_cut_filter/Saturn_ExploreScientific_114mmReflector_ZWOASI662MC_2xBarlow.png" alt="Alt Text" width="47%" height="47%"> 
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 114mm Reflector/no_filter/Saturn_ExploreScientific_114mmReflector_ZWOASI120MC-S_2xBarlow.png" alt="Alt Text" width="47%" height="47%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 114mm Reflector/no_filter/Saturn_ExploreScientific_114mmReflector_ZWOASI662MC_2xBarlow.png" alt="Alt Text" width="47%" height="47%"> 
 
 TDMF
 
