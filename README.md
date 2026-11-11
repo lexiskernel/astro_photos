@@ -92,7 +92,7 @@ Exposure: 360-sec video at 23ms exposure; 360-sec video at 20ms exposure<br>
 Gain: 96 (left); 465 gain (right)<br>
 Red/Blue White Balance: 52/95 (left); 55/75 (right)<br>
 UV/IR-cut filter<br>
-2x Barlow (F/20 native ratio)<br>
+2x Barlow (F/20 focal ratio)<br>
 Edited on Registax: Gamma function - increased brightness; RGB re-balancing<br>
 Edited on Google Photos/Windows Photos: brightenes/exposure/black point
 
@@ -131,6 +131,35 @@ UV/IR-cut filter<br>
 No Barlow (F/15 native ratio)<br>
 
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 127mm Maksutov/uv_ir_cut_filter/Saturn_ExploreScientific_127mmMaksutov_ZWOASI120MC-S_noBarlow.png" alt="Alt Text" width="47%" height="47%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 127mm Maksutov/uv_ir_cut_filter/Saturn_ExploreScientific_127mmMaksutov_ZWOASI662MC_noBarlow.png" alt="Alt Text" width="47%" height="47%"> 
+
+
+
+TDMF
+
+
+Telescope: Explore Scientific 114mm Reflector<br>
+Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)<br>
+Exposure: 60-sec video at 20ms exposure; 60-sec video at 20ms exposure<br>
+Gain: 95 (left); 360 gain (right)<br>
+Red/Blue White Balance: 52/95 (left); 52/95 (right)<br>
+No filter <br>
+2x Barlow (F/8.8 focal ratio)<br>
+
+<img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 114mm Reflector/no_filter/Saturn_ExploreScientific_114mmReflector_ZWOASI120MC-S_noBarlow.png" alt="Alt Text" width="47%" height="47%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 114mm Reflector/uv_ir_cut_filter/Saturn_ExploreScientific_114mmMaksutov_ZWOASI662MC_noBarlow.png" alt="Alt Text" width="47%" height="47%"> 
+
+TDMF
+
+
+
+
+LRMF
+
+
+
+
+LRMF
+
+
 
 
 
