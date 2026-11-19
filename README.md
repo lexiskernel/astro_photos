@@ -134,9 +134,6 @@ No Barlow (F/15 native ratio)<br>
 
 
 
-TDMF
-
-
 Telescope: Explore Scientific 114mm Reflector<br>
 Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)<br>
 Exposure: 60-sec video at 20ms exposure; 60-sec video at 20ms exposure<br>
@@ -147,7 +144,6 @@ No filter <br>
 
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 114mm Reflector/no_filter/Saturn_ExploreScientific_114mmReflector_ZWOASI120MC-S_2xBarlow.png" alt="Alt Text" width="47%" height="47%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 114mm Reflector/no_filter/Saturn_ExploreScientific_114mmReflector_ZWOASI662MC_2xBarlow.png" alt="Alt Text" width="47%" height="47%"> 
 
-TDMF
 
 Telescope: Explore Scientific 114mm Reflector<br>
 Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)<br>
@@ -159,11 +155,10 @@ UV/IR-cut filter<br>
 
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 114mm Reflector/uv_ir_cut_filter/Saturn_ExploreScientific_114mmReflector_ZWOASI120MC-S_2xBarlow.png" alt="Alt Text" width="47%" height="47%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 114mm Reflector/uv_ir_cut_filter/Saturn_ExploreScientific_114mmReflector_ZWOASI662MC_2xBarlow.png" alt="Alt Text" width="47%" height="47%"> 
 
-LRMF
 
 Telescope: Explore Scientific 114mm Reflector<br>
 Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)<br>
-Exposure: 90-sec video at 50ms exposure; 90-sec video at 50ms exposure<br>
+Exposure: 360-sec video at 50ms exposure; 360-sec video at 50ms exposure<br>
 Gain: 100 (i.e. max); 370 gain (right)<br>
 Red/Blue White Balance: 52/95 (left); 52/95 (right)<br>
 No filter<br>
@@ -172,11 +167,10 @@ No filter<br>
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 114mm Reflector/no_filter/Saturn_ExploreScientific_114mmReflector_ZWOASI120MC-S_3xBarlow.png" alt="Alt Text" width="47%" height="47%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 114mm Reflector/no_filter/Saturn_ExploreScientific_114mmReflector_ZWOASI662MC_3xBarlow.png" alt="Alt Text" width="47%" height="47%"> 
 
 
-LRMF
 
 Telescope: Explore Scientific 114mm Reflector<br>
 Camera: ZWO ASI120MC-S (left); ZWO ASI662MC (right)<br>
-Exposure: 90-sec video at 50ms exposure; 90-sec video at 50ms exposure<br>
+Exposure: 360-sec video at 50ms exposure; 360-sec video at 50ms exposure<br>
 Gain: 100 (i.e. max); 417 gain (right)<br>
 Red/Blue White Balance: 52/95 (left); 52/95 (right)<br>
 UV/IR-cut filter<br>
@@ -185,7 +179,6 @@ UV/IR-cut filter<br>
 <img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 114mm Reflector/uv_ir_cut_filter/Saturn_ExploreScientific_114mmReflector_ZWOASI120MC-S_3xBarlow.png" alt="Alt Text" width="47%" height="47%"> <img src="https://github.com/lexiskernel/planetary_photography/blob/main/ExploreScientific 114mm Reflector/uv_ir_cut_filter/Saturn_ExploreScientific_114mmReflector_ZWOASI662MC_3xBarlow.png" alt="Alt Text" width="47%" height="47%"> 
 
 
-LRMF
 
 
 
